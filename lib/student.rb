@@ -8,7 +8,7 @@ class Student
     @grade = grade
   end
 
-  def seld.create_table
+  def self.create_table
 
   end
 
