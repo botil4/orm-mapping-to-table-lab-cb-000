@@ -8,4 +8,20 @@ class Student
     @grade = grade
   end
 
+  def create_table
+
+  end
+
+  def drop_table
+
+  end
+
+  def save
+
+  end
+
+  def create
+
+  end
+
 end
